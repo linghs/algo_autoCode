@@ -1,4 +1,4 @@
-
+![图片描述](image.png)
 An automated pipeline built on Dify workflows for extracting methods from research papers, auto-generating evaluation code, and evaluating LLMs on Medbench 2025 .
 
 > 📖 [中文文档 README.zh.md](./README.zh.md)
