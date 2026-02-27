@@ -1,4 +1,3 @@
-# Med-Code: Automated Medical Benchmark Evaluation with LLM-as-a-Judge
 
 An automated pipeline built on Dify workflows for extracting methods from research papers, auto-generating evaluation code, and evaluating LLMs on Medbench 2025 .
 
