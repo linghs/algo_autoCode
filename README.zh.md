@@ -1,4 +1,3 @@
-# Med-Code: Automated Medical Benchmark Evaluation with LLM-as-a-Judge
 
 基于 Dify 工作流的医学基准评测自动化流水线，支持从论文中提取方法、自动生成评测代码，对 Medbench 2025 进行评测。
 
